@@ -1,0 +1,17 @@
+url,name,lastName,email,password,repeatPassword,photo,newName,newLastName,dateBirth,country,newUserPassword,newUserRepeatPassword
+https://qauto2.forstudy.space,test,test,test3211@gmail.com,Qwerty12345,Qwerty12345,test.png,testt,testt,01-07-2002,USA,Test12345,Test12345
+https://qauto2.forstudy.space,test,test,test3210@gmail.com,Qwerty12345,,test.jpg,test1,test1,01-07-200,Ukraine,Test12345,
+https://qauto2.forstudy.space,test,test,test3210@gmail.com,,Qwerty12345,test.jpeg,test1,124124,01-072002,Canada,,Test12345
+https://qauto2.forstudy.space,test,test,test89710@gmail.com,Qwerty12345,Qwerty12345,test.gif,test1,test,01-07-2002,UK,test12345,test12345
+https://qauto2.forstudy.space,test,test,test0820@gmail.com,Qwerty12345,Qwerty12345,test.bmp,test1,test,01-07-2002,UK,Test12345,Test12341
+https://qauto2.forstudy.space,test,test,test9800@gmail.com,qwerty12345,qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
+https://qauto2.forstudy.space,test,test,test4310gmail.com,Qwerty1234,Qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
+https://qauto2.forstudy.space,test1,test2,test4310@gmail.com,Qwerty1234,Qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
+https://qauto.forstudy.space,test,test,test3210@gmail.com,Qwerty12345,Qwerty12345,test.png,testt,testt,01-07-2002,USA,Test12345,Test12345
+https://qauto.forstudy.space,test,test,test3210@gmail.com,Qwerty12345,,test.jpg,test1,test1,01-07-200,Ukraine,Test12345,
+https://qauto.forstudy.space,test,test,test3210@gmail.com,,Qwerty12345,test.jpeg,test1,124124,01-072002,Canada,,Test12345
+https://qauto.forstudy.space,test,test,test89710@gmail.com,Qwerty12345,Qwerty12345,test.gif,test1,test,01-07-2002,UK,test12345,test12345
+https://qauto.forstudy.space,test,test,test0801@gmail.com,Qwerty12345,Qwerty12345,test.bmp,test1,test,01-07-2002,UK,Test12345,Test12341
+https://qauto.forstudy.space,test,test,test9800@gmail.com,qwerty12345,qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
+https://qauto.forstudy.space,test,test,test4310gmail.com,Qwerty1234,Qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
+https://qauto.forstudy.space,test1,test2,test4818@gmail.com,Qwerty1234,Qwerty12345,test.bmp,test,test,01-07-2002,UK,Test12345,Test12345
